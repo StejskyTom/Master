@@ -21,7 +21,7 @@
 
 
 
-print("Hello")
+print("Ahoj")
 result_1 = input("Write number: ")
 if result_1.replace(".", "", 1).replace("-", "", 1).isnumeric():
     result_1 = float(result_1)
